@@ -58,4 +58,4 @@ Python, pandas, NumPy, Matplotlib, Seaborn, Google Colab.
 
 ## Author
 
-Pranati Pradhan · [GitHub](https://github.com/pranatipradhanwork-alt) · [LinkedIn](https://www.linkedin.com/in/pranati-pradhan)
+Pranati Pradhan · [GitHub](https://github.com/pranatipradhanwork-alt) · [LinkedIn](https://www.linkedin.com/in/pranati-pradhan-work)
